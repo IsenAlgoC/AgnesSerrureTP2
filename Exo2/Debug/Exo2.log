@@ -1,0 +1,6 @@
+﻿  boucle.c
+C:\Users\agnes\source\repos\TP2\Exo2\boucle.c(8,10): warning C4477: 'scanf_s' : la chaîne de format '%f' nécessite un argument de type 'float *', mais l'argument variadique 1 est de type 'double'
+C:\Users\agnes\source\repos\TP2\Exo2\boucle.c(9,10): warning C4477: 'scanf_s' : la chaîne de format '%f' nécessite un argument de type 'float *', mais l'argument variadique 1 est de type 'double'
+C:\Users\agnes\source\repos\TP2\Exo2\boucle.c(10,10): warning C4477: 'scanf_s' : la chaîne de format '%f' nécessite un argument de type 'float *', mais l'argument variadique 1 est de type 'double'
+C:\Users\agnes\source\repos\TP2\Exo2\boucle.c(17): error C4700: variable locale 'x' non initialisée utilisée
+C:\Users\agnes\source\repos\TP2\Exo2\boucle.c(17): error C4700: variable locale 'y' non initialisée utilisée
